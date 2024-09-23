@@ -2,13 +2,9 @@
 # UWYO COSC 1010
 # 09/23/24
 # Lab 03 
-# Lab Section: 
+# Lab Section: 16
 # Sorces: Python Crash Course, 3rd Edition
-# your
-# comments
-# here
 
-states = ["Wyoming", "Colorado", "Montana"]
 
 # This is your second lab section. It will primarily be based on the Introducing Lists lecture, reference it if you need
 # Complete all sections of this assignment 
@@ -17,7 +13,7 @@ states = ["Wyoming", "Colorado", "Montana"]
 print("Part One------------------------------------------------------------------------")
 #We are going to start with the basics. Declare a list  states that contains the elements: Wyoming, Colorado, Montana in that order 
 #Note this is the ONLY point where you need to declare the states list
-
+states = ["Wyoming", "Colorado", "Montana"]
 
 
 #print the entire list
